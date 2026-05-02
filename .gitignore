@@ -5,6 +5,7 @@ ml_lab_env/
 venv/
 env/
 .venv/
+aml_env
 
 # =========================
 # 🔹 Python Cache / Builds
