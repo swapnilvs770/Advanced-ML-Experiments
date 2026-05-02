@@ -1,0 +1,69 @@
+# =========================
+# 🔹 Virtual Environments
+# =========================
+ml_lab_env/
+venv/
+env/
+.venv/
+
+# =========================
+# 🔹 Python Cache / Builds
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+build/
+dist/
+*.egg-info/
+
+# =========================
+# 🔹 Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# 🔹 VS Code / IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# 🔹 OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🔹 Logs & Temp Files
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# 🔹 Environment Variables
+# =========================
+.env
+
+# =========================
+# 🔹 Large Datasets (Optional)
+# =========================
+# Uncomment if you DON'T want to upload datasets
+IMDB Dataset.csv
+cardio_train.csv
+
+# =========================
+# 🔹 Model Files (Optional)
+# =========================
+*.h5
+*.hdf5
+*.ckpt
+
+# =========================
+# 🔹 TensorFlow / Training Artifacts
+# =========================
+logs/
+checkpoints/
