@@ -16,6 +16,10 @@ __pycache__/
 *.pyd
 *.so
 
+*data/
+
+data/
+
 build/
 dist/
 *.egg-info/
