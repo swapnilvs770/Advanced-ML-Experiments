@@ -19,6 +19,7 @@ __pycache__/
 *data/
 
 data/
+data_frames/
 
 build/
 dist/
